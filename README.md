@@ -4,6 +4,7 @@
 - :sunglasses: Taking [Mtech's Software Quality Assurance Course](https://mtec.edu/programs/software-quality-assurance/)
 - :boom::tada: Graduating from High School and Mtech in May
 - :heart: I Love Tech and Math
+- :calendar: Looking for part-time work currently and full time starting May
 
 ### What I want to learn / get better at / go into
 - Python :snake:
