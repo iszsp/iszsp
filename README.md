@@ -5,6 +5,7 @@
 - :boom::tada: Graduating from High School and Mtech in May
 - :heart: I Love Tech and Math
 - :calendar: Looking for part-time work currently and full time starting May
+- [LinkedIn](https://www.linkedin.com/in/nyle-larsen-30b3071b0/)
 
 ### What I want to learn / get better at / go into
 - Python :snake:
