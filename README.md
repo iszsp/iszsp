@@ -13,7 +13,7 @@
 - Engineering :triangular_ruler:
 - Tech :desktop_computer:
 - Math **∫dx** :heavy_multiplication_x::heavy_division_sign:
-- Security testing, Accessibility testing, Unit testing
+- Security testing, Accessibility testing, Unit / White Box testing
 
 ### Soon to Learn at Mtech
 **Automation w/**
@@ -21,13 +21,15 @@
 - WebdriverIO
 - Javascript
 
+### Work Experience
+
 # Software Quality Assurance
 
 ## Types of Testing I Can Do
 - Performance - API - CRUD
 - System - Acceptance - Exploratory
 - Integration - Accessibility - Regression
-- Grey Box - White Box
+- Grey Box - Black Box
 
 ## What I Have Done
 **JIRA :** Test Cases, Bug Tickets, Feature Requests. [Here's some of the stuff I've made.](https://docs.google.com/document/d/1la8DGydzufmUqcO4hXsFJyeuCS46gjGj2FoEhmm3VC4/edit?usp=sharing)
