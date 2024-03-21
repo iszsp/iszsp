@@ -5,7 +5,7 @@
 - :boom::tada: Graduating from High School and Mtech in May
 - :heart: I Love Tech and Math
 - :calendar: Looking for part-time work currently and full time starting May within the tech / software industry
-- Fun fact: I have been snowboarding over 25 days so far this season :snowboarder::snowflake:
+- Somethin about me: I have been snowboarding over 25 days so far this season :snowboarder::snowflake:
 - [LinkedIn](https://www.linkedin.com/in/nyle-larsen-30b3071b0/)
 
 ### What I want to learn / get better at / go into
