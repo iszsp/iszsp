@@ -54,7 +54,6 @@ The two jobs I've held before include working as a
 **POSTMAN :** API testing
 
 ![postman1](https://github.com/iszsp/iszsp/assets/158510496/34a8bb60-53c2-40e9-a46b-93a921f0e67e)
-![postman2](https://github.com/iszsp/iszsp/assets/158510496/35fdf6eb-406a-4ec0-be78-9ac0a8d83f50)
 
 **BLAZEMETER :** Some API testing
 
