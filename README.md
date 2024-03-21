@@ -43,7 +43,7 @@ The two jobs I've held before include working as a
 
 ![SQL1](https://github.com/iszsp/iszsp/assets/158510496/b391b3f7-1297-4344-8d6f-763d3d974920)
 
-**GIT :** Used Git in Mtech with Mac's Terminal / VS Code
+**GIT :** Used Git at Mtech with Mac's Terminal / VS Code
 
 ![Git1](https://github.com/iszsp/iszsp/assets/158510496/011849a6-60e1-43d8-b20c-19f0da45e7c5)
 
