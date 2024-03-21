@@ -37,7 +37,7 @@ The two jobs I've held before include working as a
 - Grey Box - Black Box
 
 ## What I Have Done
-**JIRA :** Test Cases, Bug Tickets, Feature Requests. [Here's some of the stuff I've made.](https://docs.google.com/document/d/1la8DGydzufmUqcO4hXsFJyeuCS46gjGj2FoEhmm3VC4/edit?usp=sharing)
+**JIRA :** Test Cases, Bug Tickets, Feature Requests. [**Here's some of the stuff I've made.**](https://docs.google.com/document/d/1la8DGydzufmUqcO4hXsFJyeuCS46gjGj2FoEhmm3VC4/edit?usp=sharing)
 
 **SQL :** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/) <sub>(Example ⬇️)</sub> within the Hospital DB and more at Mtech 
 
