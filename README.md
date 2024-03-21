@@ -12,6 +12,11 @@
 - Tech
 - Math
 - Security testing, Accessibility testing, Unit testing
+
+## Types of Testing I Can Do
+- Performance - API - CRUD
+- System - Acceptance - Exploratory
+- Integration - Accessibility - Regression
 <!---
 iszsp/iszsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
