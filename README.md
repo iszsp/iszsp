@@ -4,7 +4,8 @@
 - :sunglasses: Taking [Mtech's Software Quality Assurance Course](https://mtec.edu/programs/software-quality-assurance/)
 - :boom::tada: Graduating from High School and Mtech in May
 - :heart: I Love Tech and Math
-- :calendar: Looking for part-time work currently and full time starting May
+- :calendar: Looking for part-time work currently and full time starting May within the tech / software industry
+- Fun fact: I have been snowboarding over 25 days so far this season :snowboarder::snowflake:
 - [LinkedIn](https://www.linkedin.com/in/nyle-larsen-30b3071b0/)
 
 ### What I want to learn / get better at / go into
@@ -22,6 +23,10 @@
 - Javascript
 
 ### Work Experience
+I have never worked within the Tech industry.
+The two jobs I've held before include working as a
+- Sweeper Custodian for seven months at Orem Junior High School :broom:
+- Shop Hand for three months at Cleggs Car Care :car::raised_hand_with_fingers_splayed:
 
 # Software Quality Assurance
 
@@ -34,9 +39,9 @@
 ## What I Have Done
 **JIRA :** Test Cases, Bug Tickets, Feature Requests. [Here's some of the stuff I've made.](https://docs.google.com/document/d/1la8DGydzufmUqcO4hXsFJyeuCS46gjGj2FoEhmm3VC4/edit?usp=sharing)
 
-**SQL :** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/) within the Hospital DB and more at Mtech
+**SQL :** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/) <sub>(Example ⬇️)</sub> within the Hospital DB and more at Mtech 
 
-Ex: ![SQL1](https://github.com/iszsp/iszsp/assets/158510496/b391b3f7-1297-4344-8d6f-763d3d974920)
+![SQL1](https://github.com/iszsp/iszsp/assets/158510496/b391b3f7-1297-4344-8d6f-763d3d974920)
 
 **GIT :** Used Git in Mtech with Mac's Terminal / VS Code
 
@@ -51,9 +56,15 @@ Ex: ![SQL1](https://github.com/iszsp/iszsp/assets/158510496/b391b3f7-1297-4344-8
 ![postman1](https://github.com/iszsp/iszsp/assets/158510496/34a8bb60-53c2-40e9-a46b-93a921f0e67e)
 ![postman2](https://github.com/iszsp/iszsp/assets/158510496/35fdf6eb-406a-4ec0-be78-9ac0a8d83f50)
 
-**BLAZEMETER :** More API testing
+**BLAZEMETER :** Some API testing
 
-**CHROME DEVTOOLS :**
+![blazemeter](https://github.com/iszsp/iszsp/assets/158510496/7c58e94d-802c-4241-8c27-cf16d1b48942)
+
+**CHROME DEVTOOLS :** Some experience in the performance tab and running lighthouse
+
+![devtools](https://github.com/iszsp/iszsp/assets/158510496/6226ab3a-ad83-44a9-9744-c813df274b3a)
+
+
 <!---
 iszsp/iszsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
