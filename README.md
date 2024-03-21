@@ -30,9 +30,11 @@
 - Grey Box - White Box
 
 ## What I Have Done
+**JIRA :** Test Cases, Bug Tickets, Feature Requests. [Here's some of the stuff I've made.](https://docs.google.com/document/d/1la8DGydzufmUqcO4hXsFJyeuCS46gjGj2FoEhmm3VC4/edit?usp=sharing)
+
 **SQL :** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/) within the Hospital DB and more at Mtech
 
-**JIRA :** Test Cases, Bug Tickets, Feature Requests
+Ex: ![SQL1](https://github.com/iszsp/iszsp/assets/158510496/b391b3f7-1297-4344-8d6f-763d3d974920)
 
 **GIT :** Used Git in Mtech with Mac's Terminal / VS Code
 
@@ -45,7 +47,11 @@
 **POSTMAN :** API testing
 
 ![postman1](https://github.com/iszsp/iszsp/assets/158510496/34a8bb60-53c2-40e9-a46b-93a921f0e67e)
+![postman2](https://github.com/iszsp/iszsp/assets/158510496/35fdf6eb-406a-4ec0-be78-9ac0a8d83f50)
 
+**BLAZEMETER :** More API testing
+
+**CHROME DEVTOOLS :**
 <!---
 iszsp/iszsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
