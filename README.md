@@ -19,15 +19,15 @@
 - Integration - Accessibility - Regression
 
 ## What I Have Done
-**SQL:** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/)
+**SQL :** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/) within the Hospital DB
 
-**JIRA:**
+**JIRA :** Test Cases, Bug Tickets, Feature Requests
 
-**GIT:**
+**GIT :** Used Git in Mtech with Mac's Terminal
 
-**JMETER:**
+**JMETER :** Performance Testing
 
-**POSTMAN:**
+**POSTMAN :** API testing
 
 
 <!---
