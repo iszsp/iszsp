@@ -17,6 +17,19 @@
 - Performance - API - CRUD
 - System - Acceptance - Exploratory
 - Integration - Accessibility - Regression
+
+## What I Have Done
+**SQL:** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/)
+
+**JIRA:**
+
+**GIT:**
+
+**JMETER:**
+
+**POSTMAN:**
+
+
 <!---
 iszsp/iszsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
