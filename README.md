@@ -15,12 +15,19 @@
 - Math **∫dx** :heavy_multiplication_x::heavy_division_sign:
 - Security testing, Accessibility testing, Unit testing
 
+### Soon to Learn at Mtech
+**Automation w/**
+- Selenium
+- WebdriverIO
+- Javascript
+
 # Software Quality Assurance
 
 ## Types of Testing I Can Do
 - Performance - API - CRUD
 - System - Acceptance - Exploratory
 - Integration - Accessibility - Regression
+- Grey Box - White Box
 
 ## What I Have Done
 **SQL :** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/) within the Hospital DB and more at Mtech
