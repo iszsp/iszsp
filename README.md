@@ -16,7 +16,7 @@
 - Math **∫dx** :heavy_multiplication_x::heavy_division_sign:
 - Security testing, Accessibility testing, Unit / White Box testing
 
-### Soon to Learn at Mtech
+### Soon to Learn / currently learning at Mtech
 **Automation w/**
 - Selenium
 - WebdriverIO
