@@ -46,11 +46,7 @@ The two jobs I've held before include working as a
 
 ![jmeter2](https://github.com/iszsp/iszsp/assets/158510496/f610a950-f6c0-40cc-838c-f73094f36036)
 
-**POSTMAN :** API testing
-
-![postman1](https://github.com/iszsp/iszsp/assets/158510496/34a8bb60-53c2-40e9-a46b-93a921f0e67e)
-
-**Other tools I've used :** Chrome Devtools, Blazemeter, Git
+**Other tools I've used :** Chrome Devtools, Blazemeter, Git, Postman
 
 
 <!---
