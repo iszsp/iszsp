@@ -25,7 +25,7 @@ The two jobs I've held before include working as a
 # Software Quality Assurance
 
 ## Types of Testing I Can Do
-- Automated via Webdriver IO & JS
+- [Automated via Webdriver IO & JS](https://github.com/iszsp/automateMtechSiteProject)
 - Performance - API - CRUD
 - System - Acceptance - Exploratory
 - Integration - Accessibility - Regression
