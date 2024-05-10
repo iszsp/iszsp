@@ -4,8 +4,8 @@
 - :sunglasses: Taking [Mtech's Software Quality Assurance Course](https://mtec.edu/programs/software-quality-assurance/)
 - :boom::tada: Graduating from High School and Mtech in May
 - :heart: I Love Tech and Math
-- :calendar: Looking for part-time work currently and full time starting May within the tech / software industry
-- Somethin about me: I have been snowboarding over 25 days so far this season :snowboarder::snowflake:
+- :calendar: Looking for work in Software Quality Assurance
+- Somethin about me: I went snowboarding 28 days last season :snowboarder::snowflake:
 - [LinkedIn](https://www.linkedin.com/in/nyle-larsen-30b3071b0/), my email is nylarseen@gmail.com
 
 ### What I want to learn / get better at / go into
@@ -31,6 +31,7 @@ The two jobs I've held before include working as a
 # Software Quality Assurance
 
 ## Types of Testing I Can Do
+- Automated via Webdriver IO
 - Performance - API - CRUD
 - System - Acceptance - Exploratory
 - Integration - Accessibility - Regression
