@@ -25,7 +25,7 @@ The two jobs I've held before include working as a
 # Software Quality Assurance
 
 ## Types of Testing I Can Do
-- Automated via Webdriver IO
+- Automated via Webdriver IO & JS
 - Performance - API - CRUD
 - System - Acceptance - Exploratory
 - Integration - Accessibility - Regression
@@ -33,6 +33,10 @@ The two jobs I've held before include working as a
 
 ## What I Have Done
 **JIRA :** Test Cases, Bug Tickets, Feature Requests. [**Here's some of the stuff I've made.**](https://docs.google.com/document/d/1la8DGydzufmUqcO4hXsFJyeuCS46gjGj2FoEhmm3VC4/edit?usp=sharing)
+
+**WEBDRIVER IO :** Automated testing using JS
+
+![image](https://github.com/iszsp/iszsp/assets/158510496/80aa5ab3-3484-4e3f-a37d-e9426a7ff7c7)
 
 **SQL :** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/) <sub>(Example ⬇️)</sub> within the Hospital DB and more at Mtech 
 
