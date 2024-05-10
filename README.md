@@ -1,12 +1,12 @@
 # **I'm Nyle Larsen**
 
 - Currently a High School Senior in Utah County
-- :sunglasses: Taking [Mtech's Software Quality Assurance Course](https://mtec.edu/programs/software-quality-assurance/"target="_blank)
+- :sunglasses: Taking [Mtech's Software Quality Assurance Course](https://mtec.edu/programs/software-quality-assurance)
 - :boom::tada: Graduating from High School and Mtech this month
 - :heart: I Love Tech and Math
 - :calendar: Looking for work in Software Quality Assurance
 - Somethin about me: I went snowboarding 28 days this past season :snowboarder::snowflake:
-- [LinkedIn](https://www.linkedin.com/in/nyle-larsen-30b3071b0/"target="_blank), my email is nylarseen@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/nyle-larsen-30b3071b0), my email is nylarseen@gmail.com
 
 ### Stuff that seems interesting
 - Python :snake:
@@ -25,20 +25,20 @@ The two jobs I've held before include working as a
 # Software Quality Assurance
 
 ## Types of Testing I Can Do
-- Automated via Webdriver IO & JS [One of my recent projects](https://github.com/iszsp/automateMtechSiteProject/"target="_blank)
+- Automated via Webdriver IO & JS [One of my recent projects](https://github.com/iszsp/automateMtechSiteProject)
 - Performance - API - CRUD
 - System - Acceptance - Exploratory
 - Integration - Accessibility - Regression
 - Grey Box - Black Box
 
 ## What I Have Done
-**JIRA :** Test Cases, Bug Tickets, Feature Requests. [**Here's some of the stuff I've made.**](https://docs.google.com/document/d/1la8DGydzufmUqcO4hXsFJyeuCS46gjGj2FoEhmm3VC4/edit?usp=sharing/"target="_blank)
+**JIRA :** Test Cases, Bug Tickets, Feature Requests. [**Here's some of the stuff I've made.**](https://docs.google.com/document/d/1la8DGydzufmUqcO4hXsFJyeuCS46gjGj2FoEhmm3VC4/edit?usp=sharing)
 
-**WEBDRIVER IO :** Automated testing using JS [**Here's a video of the test below.**](https://drive.google.com/file/d/1TeoHa7yBGXO1hAAq0r_PP2dlwD2uRXVo/view?usp=sharing/"target="_blank)
+**WEBDRIVER IO :** Automated testing using JS [**Here's a video of the test below.**](https://drive.google.com/file/d/1TeoHa7yBGXO1hAAq0r_PP2dlwD2uRXVo/view?usp=sharing)
 
 ![image](https://github.com/iszsp/iszsp/assets/158510496/bb04da72-63eb-488f-ab0d-2c1be0cffa6b)
 
-**SQL :** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/"target="_blank) <sub>(Example ⬇️)</sub> within the Hospital DB and more at Mtech 
+**SQL :** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com) <sub>(Example ⬇️)</sub> within the Hospital DB and more at Mtech 
 
 ![SQL1](https://github.com/iszsp/iszsp/assets/158510496/b391b3f7-1297-4344-8d6f-763d3d974920)
 
