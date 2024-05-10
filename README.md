@@ -36,7 +36,7 @@ The two jobs I've held before include working as a
 
 **WEBDRIVER IO :** Automated testing using JS
 
-![image](https://github.com/iszsp/iszsp/assets/158510496/80aa5ab3-3484-4e3f-a37d-e9426a7ff7c7)
+![image](https://github.com/iszsp/iszsp/assets/158510496/f3ccda5f-8470-4fe1-92d3-a71f559d6170)
 
 **SQL :** Completed all practice questions on [sql-practice.com](https://www.sql-practice.com/) <sub>(Example ⬇️)</sub> within the Hospital DB and more at Mtech 
 
