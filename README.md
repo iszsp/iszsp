@@ -8,6 +8,8 @@
 - Somethin about me: I went snowboarding 28 days this past season :snowboarder::snowflake:
 - [LinkedIn](https://www.linkedin.com/in/nyle-larsen-30b3071b0), my email is nylarseen@gmail.com
 
+## --- [My Resume](https://drive.google.com/file/d/1W4K3jK5FIiaYz21QXY5C0gKFsnYmJDoo/view?usp=drivesdk)
+
 ### Stuff that seems interesting
 - Python :snake:
 - Javascript :newspaper_roll:
